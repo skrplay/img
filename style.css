@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+body{
+    background: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+input{
+    width: 50%;
+    height: 10%;
+    border: 1px;
+    border-radius: 5px;
+    padding: 8px 15px 8px 15px;
+    margin: 10px 0px 15px 0px;
+    box-shadow: 1px 1px 2px 1px greenyellow;
+    font-weight: bold;
+}
+
+label{
+    font-size: 15px;
+    color: #fff;
+
+}
+
+
+.conten {
+    position: relative;
+    top: 200px;
+}
+
+
+
+center h1{
+    color: #fff;
+}
